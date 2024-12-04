@@ -1,0 +1,17 @@
+{
+  "title": "LoTing",
+  "description": "A Story about HK Aquatic Monsters",
+  "artist": "Kumo",
+  "author": "Kumo",
+  "cover": "https://i.imgur.com/LHhDFWA.png",
+  "chapters": {
+    "<chapter number>": {
+      "title": "Lineart01,
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/2haB6fQ/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
