@@ -1,16 +1,16 @@
 {    
     "title": "Lo Ting",
-    "description": "A Story about HK Aquatic Monsters",
+    "description": "An Action Story about HK Aquatic Monsters",
     "author": "Kumo",
     "artist": "Kumo",
-    "cover": "https://i.imgur.com/LHhDFWA.png",
+    "cover": "https://i.imgur.com/OmYmO6H.png",
     "chapters": {
-        "0": {
+        "1": {
             "groups": {
-                "Imgur": "/proxy/api/imgur/chapter/2haB6fQ"
+                "Imgur": "/proxy/api/imgur/chapter/7lSHgCr"
             },
             "last_updated": 1624606143,
-            "title": "Line Art",
+            "title": "試本",
             "volume": "1"
         }
     }
